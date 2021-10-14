@@ -1,3 +1,7 @@
+Version 4.3 : * Some Minor bugs fixed
+              * WhatsApp Business support added
+              * Optimization
+
 Version 4.2 : * Android 11 support again fix
 
 Version 4.1 : * New Features
